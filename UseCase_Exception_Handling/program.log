@@ -1,0 +1,2 @@
+ERROR:root:My file was not found [Errno 2] No such file or directory: 'example.txt'
+ERROR:root:My file was not found division by zero
