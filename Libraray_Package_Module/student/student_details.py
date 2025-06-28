@@ -14,7 +14,7 @@
 
 # Version before python 3.3, to make a package it was necessary to include __init__.py in package (to initialise package and expose required modules and functions)
 
-# Libraray: It is the collection of multiple package and modules
+# Library: It is the collection of multiple package and modules
 #         : pre-written code to perform common task
 #         e.g., pandas, numpy
 
