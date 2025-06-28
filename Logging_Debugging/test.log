@@ -1,0 +1,18 @@
+INFO:root:This is my normal information about the software
+WARNING:root:There can be empty list here
+ERROR:root:Some error has happened
+CRITICAL:root:The software has stopped running
+INFO:root:This is my info msg
+WARNING:root:This is my warning msg
+INFO:root:This is my info msg
+WARNING:root:This is my warning msg
+INFO:root:processing each element 1
+INFO:root:processing each element hello
+INFO:root:processing each element [2, 'world']
+INFO:root:processing sublist element: 2
+INFO:root:processing sublist element: world
+INFO:root:processing each element 4
+INFO:root:processing each element [3, 'Python']
+INFO:root:processing sublist element: 3
+INFO:root:processing sublist element: Python
+INFO:root:The result is : [1, 2, 4, 3], ['hello']
